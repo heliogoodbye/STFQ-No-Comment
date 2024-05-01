@@ -1,4 +1,4 @@
-# STFQ-No-Comment
+# STFQ No Comment
 
 **STFQ No Comment** is a WordPress plugin designed to streamline the process of disabling comments across your entire WordPress site. With this plugin, you can easily manage comment settings without having to navigate through various WordPress settings pages.
 
