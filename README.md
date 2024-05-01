@@ -21,8 +21,8 @@ Overall, STFQ No Comment empowers WordPress site owners to take control of their
 ## How to use STFQ No Comment
 
 1. Installation:
-    - Download the plugin files from the source or install it directly from the WordPress plugin repository.
-    - Upload the plugin folder to the `/wp-content/plugins/` directory on your WordPress site.
+    - Download the plugin files.
+    - Upload the plugin folder to the `/wp-content/plugins/` directory on your WordPress site or navigate to "Plugins" > "Add New", then click on the "Upload Plugin" button and select the downloaded zip file.
     - Activate the plugin through the 'Plugins' menu in WordPress.
 
 2. Configuration:
