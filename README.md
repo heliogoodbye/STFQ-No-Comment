@@ -26,7 +26,7 @@ Overall, STFQ No Comment empowers WordPress site owners to take control of their
     - Activate the plugin through the 'Plugins' menu in WordPress.
 
 2. Configuration:
-    - After activating the plugin, you'll find a new menu item labeled "STFQ No Comment" in your WordPress admin sidebar. Click on it to access the plugin's settings page.
+    - After activating the plugin, you'll find a new menu item labeled "STFQ No Comment" in your WordPress Settings admin sidebar. Click on it to access the plugin's settings page.
     - On the settings page, you'll see checkboxes for "Disable Comments via XML-RPC" and "Disable Comments via REST API." Check these options if you want to disable comments through these interfaces. Leave them unchecked if you want to allow comments via XML-RPC and REST API.
     - Once you've configured your desired settings, click the "Save Changes" button to save your changes.
       
